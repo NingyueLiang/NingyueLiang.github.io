@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-## Short Biography
 Ningyue Liang is a senior undergraduate student double majoring in Computer Science and Statistics at Washington University in St. Louis. His profound interest in machine learning, AI, and software engineering, coupled with his industrial experience and academic achievements, marks him as an emerging professional equipped to face and solve complex technological challenges.
 
 ## Research
@@ -108,7 +106,7 @@ Data Analysis & Interactive Visualizations on 30 years green house gas emissions
 EDUrain is a platform dedicated to helping every student attend college. We help students file for scholarships for free, and offer a free housing search through our housing engine. Additionally, we’ve built into our platform other services to make the student’s life easier, including renter’s insurance, credit building, and roommate matching! We’re constantly improving our website as we build our startup, so look out for new features that are on the way!
 
 
-## Tech Stack :computer:
+## Tech Stack
 
 <br>
 <table>
