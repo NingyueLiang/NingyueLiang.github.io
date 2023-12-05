@@ -97,9 +97,9 @@ Created an interactive visualization application in D3.JS to show 30+ projectsâ€
 (Accepted by App Store, not published)
 Introducing Mirror, the AI Interviewer App, powered by GPT and designed to help you ace your next interview! With Mirror, you can get a realistic mock practice of real interview questions, and receive real-time feedback from artificial intelligence on your performance. Mirror tracks your performance history, allowing you to see your progress and stay motivated. Itâ€™s a comprehensive tool that gives you everything you need to prepare for your interview with confidence.
 
-### [2. Global Emissions Data Analysis & Interactive Visualizations](https://github.com/NingyueLiang/Emssions) 
+### [2. Global Emissions Data Analysis & Interactive Visualizations](https://ningyueliang.github.io/Emssions/) 
 
-Data Analysis & Interactive Visualizations on 30 years green house gas emissions for all countries in the world through D3.JS.
+Data Analysis and interactive visualizations on 30 years of greenhouse gas emissions for all countries in the world through D3.JS.
 
 
 ###  [3. EDUrain](https://github.com/NingyueLiang/EDUrain)
