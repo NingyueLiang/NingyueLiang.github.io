@@ -5,7 +5,7 @@ excerpt: "Teaching"
 author_profile: true
 redirect_from: 
   - /teaching/
-  - /about.md
+  - /teaching.md
 ---
 
 I have worked as a teaching assistant for 7 Computer Science Courses and engineering tutor at Washington University in St. Louis:
