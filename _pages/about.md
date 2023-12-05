@@ -105,6 +105,16 @@ Data Analysis & Interactive Visualizations on 30 years green house gas emissions
 ###  [3. EDUrain](https://github.com/NingyueLiang/EDUrain)
 EDUrain is a platform dedicated to helping every student attend college. We help students file for scholarships for free, and offer a free housing search through our housing engine. Additionally, we’ve built into our platform other services to make the student’s life easier, including renter’s insurance, credit building, and roommate matching! We’re constantly improving our website as we build our startup, so look out for new features that are on the way!
 
+## Teaching
+I have worked as a teaching assistant for 7 Computer Science Courses and engineering tutor at Washington University in St. Louis:
+
+CSE247 DATA STRUCTURES AND ALGORITHMS \
+CSE204 WEB DEVELOPMENT \
+CSE217 INTRODUCTION  TO DATA SCIENCE \
+CSE330S RAPID PROTOTYPE DEVELOPMENT AND CREATIVE PROGRAMMING \
+CSE332S OBJECT-ORIENTED SOFTWARE DEVELOPMENT LABORATORY \
+CSE361S INTRODUCTION TO SYSTEMS SOFTWARE \
+CSE438S MOBILE APPLICATION DEVELOPMENT 
 
 ## Tech Stack
 
