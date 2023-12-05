@@ -1,7 +1,6 @@
 ---
 permalink: /portfolio/
 title: "Project"
-excerpt: "Project"
 author_profile: true
 redirect_from: 
   - /portfolio/
