@@ -78,7 +78,7 @@ Implemented responsive UI design and data visualizations with React, D3.JS, and 
 
 ### Roke Data Co., Ltd., Software Engineer Intern                                                                                          
 
-* May 2021 – July 2021; Jinan, China *
+*May 2021 – July 2021; Jinan, China*
   
 Skills: React.JS, Python, REST APIs, Odoo, PostgreSQL, D3.JS 
 
