@@ -1,16 +1,16 @@
 # main links links
 main:
    - title: "Research"
-     url: /about/
+     url: about/
    
    - title: "Internship"
-     url: /internships/    
+     url: internships/    
 
    - title: "Teaching"
-     url: /teaching/    
+     url: teaching/    
     
    - title: "Project"
-     url: /portfolio/
+     url: portfolio/
         
 
     
