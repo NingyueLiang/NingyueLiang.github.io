@@ -4,7 +4,6 @@ title: "Project"
 author_profile: true
 ---
 
-## Project
 
 ### [1. Mirror iOS App](https://github.com/NingyueLiang/Mirror-iOS-App)
 
