@@ -3,12 +3,8 @@ layout: archive
 title: "Internship"
 permalink: /internships/
 author_profile: true
-redirect_from:
-  - /internships
-  - /internships.md
----
 
-## Internship 
+---
 
 ###  Impossible Sensing, LLC, Software Engineer Intern                                                                                 
 
