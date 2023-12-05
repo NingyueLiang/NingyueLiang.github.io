@@ -5,7 +5,6 @@ permalink: /internships/
 author_profile: true
 
 ---
-
 ###  Impossible Sensing, LLC, Software Engineer Intern                                                                                 
 
 *June 2023 – July 2023; St. Louis, MO*
