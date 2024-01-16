@@ -6,7 +6,7 @@ author_profile: true
 ## *One for All: Towards Training One Graph Model for All Classification Tasks* 
 ## Accepted for ICLR 2024 spotlight (top 5%)
 
-Paper: [https://openreview.net](https://openreview.net/forum?id=4IT2pgc9v6&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))
+Paper: [https://openreview.net/forum?id=4IT2pgc9v6](https://openreview.net/forum?id=4IT2pgc9v6)
 
 Authors: Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
 
