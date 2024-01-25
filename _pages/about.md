@@ -13,7 +13,7 @@ Ningyue Liang is a senior undergraduate student double majoring in Computer Scie
 ## Research
 
 ### *One for All: Towards Training One Graph Model for All Classification Tasks* 
-### Accepted for ICLR 2024 spotlight presentation (top 5%)
+### Accepted for ICLR 2024 Spotlight presentation (top 5%)
 
 Paper: [https://openreview.net/forum?id=4IT2pgc9v6](https://openreview.net/forum?id=4IT2pgc9v6)
 
