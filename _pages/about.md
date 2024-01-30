@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ningyue Liang is a senior undergraduate student double majoring in Computer Science and Statistics at Washington University in St. Louis. His profound interest in machine learning, AI, and software engineering, coupled with his industrial experience and academic achievements, marks him as an emerging professional equipped to face and solve complex technological challenges.
+Ningyue Liang is a senior double majoring in Computer Science and Statistics at Washington University in St. Louis. His profound interest in machine learning, AI, and software engineering, coupled with his industrial experience and academic achievements, marks him as an emerging professional equipped to face and solve complex technological challenges.
 
 ## Research
 
