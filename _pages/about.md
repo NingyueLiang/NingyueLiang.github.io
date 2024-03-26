@@ -8,36 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ningyue Liang is a senior double majoring in Computer Science and Statistics at Washington University in St. Louis. His profound interest in machine learning, AI, and software engineering, coupled with his industrial experience and academic achievements, marks him as an emerging professional equipped to face and solve complex technological challenges.
-
-## Research
-
-### *One for All: Towards Training One Graph Model for All Classification Tasks* 
-### Accepted for ICLR 2024 Spotlight presentation (top 5%)
-
-Paper: [https://openreview.net/forum?id=4IT2pgc9v6](https://openreview.net/forum?id=4IT2pgc9v6)
-
-Authors: Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
-
-[Github URL](https://github.com/NingyueLiang/OneForAll)
-
-![OFA Pipeline ](../images/ofapipeline.png)
-
-OFA is a general Graph Classification Framework that can solves a wide range of graph classification tasks with a single model and a single set of parameters. The tasks are cross-domain (e.g. citation network, molecular graph,...) and cross-tasks (e.g. few-shot, zero-shot, graph-level, node-leve,...)
-
-OFA use natural languages to describe all graphs, and use a LLM to embed all description in the same embedding space, which enable cross-domain training using a single model.
-
-OFA propose a prompting paradiagm that all task information are converted to prompt graph. So subsequence model is able to read tasks information and predict relavent target accordingly, without having to adjust model parameters and architecture. Hence, a single model can be cross-task.
-
-OFA curated a list of graph datasets from a different sources and domains and describe nodes/edges in the graphs with a systematical decription protocol. We thank previous works including, [OGB](https://ogb.stanford.edu/), [GIMLET](https://github.com/zhao-ht/GIMLET/tree/master), [MoleculeNet](https://arxiv.org/abs/1703.00564), [GraphLLM](https://arxiv.org/pdf/2307.03393.pdf), and [villmow](https://github.com/villmow/datasets_knowledge_embedding/tree/master) for providing wonderful raw graph/text data that make our work possible.
-
-###  *Advanced Astrophysics Telescope Program at Washington University in St. Louis*
-
-Developed with a team of 6 to build a localization pipeline in C++ with an OOP design for GRB detection in the telescope
-
-Optimized the localization algorithm with ML-driven techniques by experimenting with 40+ regression models (e.g. k-NN, CNN, SVM) and improved its accuracy by 30%, achieving less than 1.5 degrees of error for 10k+ trial evaluations
-
-Implemented a comprehensive machine learning infrastructure with Python and TensorFlow, including data loading, cleaning, normalization, training, and serving, efficiently managing 70 million data rows from end to end
+Ningyue Liang is a Computer Science and Statistics student at Washington University in St. Louis. (Incoming 2024 Master in CSE at Harvard University). His profound interest in machine learning, AI, and software engineering, coupled with his industrial experience and academic achievements, marks him as an emerging professional equipped to face and solve complex technological challenges.
 
 ## Internship 
 
@@ -83,13 +54,43 @@ Implemented responsive UI design and data visualizations with React, D3.JS, and 
   
 Skills: React.JS, Python, REST APIs, Odoo, PostgreSQL, D3.JS 
 
-Developed an enterprise resource planning app for China Construction 8th Division with 10+ colleagues from Inspur
+Developed an enterprise resource planning app to manage global construction projects for China Construction 8th Division
 
-Designed a database in PostgreSQL to store project planning information, including locations, resources, and status 
+Implemented a database in PostgreSQL to store project planning information, including locations, resources, and status
 
-Built non-blocking REST Python APIs to support resource planning functions and data analysis of construction projects
+Built non-blocking REST Python APIs to support resource planning functions and data analysis of construction projects 
 
-Created an interactive visualization application in D3.JS to show 30+ projects’ progress, locations, and remaining resources
+Created an interactive data visualization in D3.JS to show 30+ projects’ progress, geospatial locations, and operations
+
+## Research
+
+### *One for All: Towards Training One Graph Model for All Classification Tasks* 
+### Accepted for ICLR 2024 Spotlight presentation (top 5%)
+
+Paper: [https://openreview.net/forum?id=4IT2pgc9v6](https://openreview.net/forum?id=4IT2pgc9v6)
+
+Authors: Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
+
+[Github URL](https://github.com/NingyueLiang/OneForAll)
+
+![OFA Pipeline ](../images/ofapipeline.png)
+
+OFA is a general Graph Classification Framework that can solves a wide range of graph classification tasks with a single model and a single set of parameters. The tasks are cross-domain (e.g. citation network, molecular graph,...) and cross-tasks (e.g. few-shot, zero-shot, graph-level, node-leve,...)
+
+OFA use natural languages to describe all graphs, and use a LLM to embed all description in the same embedding space, which enable cross-domain training using a single model.
+
+OFA propose a prompting paradiagm that all task information are converted to prompt graph. So subsequence model is able to read tasks information and predict relavent target accordingly, without having to adjust model parameters and architecture. Hence, a single model can be cross-task.
+
+OFA curated a list of graph datasets from a different sources and domains and describe nodes/edges in the graphs with a systematical decription protocol. We thank previous works including, [OGB](https://ogb.stanford.edu/), [GIMLET](https://github.com/zhao-ht/GIMLET/tree/master), [MoleculeNet](https://arxiv.org/abs/1703.00564), [GraphLLM](https://arxiv.org/pdf/2307.03393.pdf), and [villmow](https://github.com/villmow/datasets_knowledge_embedding/tree/master) for providing wonderful raw graph/text data that make our work possible.
+
+###  *Advanced Astrophysics Telescope Program at Washington University in St. Louis*
+
+Developed with a team of 6 to build a localization pipeline in C++ with an OOP design for GRB detection in the telescope
+
+Optimized the localization algorithm with ML-driven techniques by experimenting with 40+ regression models (e.g. k-NN, CNN, SVM) and improved its accuracy by 30%, achieving less than 1.5 degrees of error for 10k+ trial evaluations
+
+Implemented a comprehensive machine learning infrastructure with Python and TensorFlow, including data loading, cleaning, normalization, training, and serving, efficiently managing 70 million data rows from end to end
+
 
 ## Project
 

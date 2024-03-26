@@ -47,13 +47,13 @@ Implemented responsive UI design and data visualizations with React, D3.JS, and 
   
 Skills: React.JS, Python, REST APIs, Odoo, PostgreSQL, D3.JS 
 
-Developed an enterprise resource planning app for China Construction 8th Division with 10+ colleagues from Inspur
+Developed an enterprise resource planning app to manage global construction projects for China Construction 8th Division
 
-Designed a database in PostgreSQL to store project planning information, including locations, resources, and status 
+Implemented a database in PostgreSQL to store project planning information, including locations, resources, and status
 
-Built non-blocking REST Python APIs to support resource planning functions and data analysis of construction projects
+Built non-blocking REST Python APIs to support resource planning functions and data analysis of construction projects 
 
-Created an interactive visualization application in D3.JS to show 30+ projects’ progress, locations, and remaining resources
+Created an interactive data visualization in D3.JS to show 30+ projects’ progress, geospatial locations, and operations
 
 
 ## Tech Stack
