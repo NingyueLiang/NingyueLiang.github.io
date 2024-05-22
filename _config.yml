@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ningyue Liang's Homepage"
 title_separator          : "-"
 name                     : &name "Ningyue Frank Liang"
-description              : &description "Senior Computer Science and Statistics student at Washington University in St. Louis"
+description              : &description "M.E. in CSE at Harvard University; B.S. in Computer Science and Statistics at Washington University in St. Louis."
 url                      : https://ningyueliang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ningyueliang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ningyue Frank Liang"
   avatar           : "profile.png"
-  bio              : "B.S. in Computer Science and Statistics at Washington University in St. Louis. (Incoming 2024 Master in CSE at Harvard University)"
+  bio              : "M.E. in CSE at Harvard University; B.S. in Computer Science and Statistics at Washington University in St. Louis."
   location         : "Weston, MA"
   employer         :
   pubmed           :
