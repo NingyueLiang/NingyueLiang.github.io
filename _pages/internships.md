@@ -27,7 +27,7 @@ timing control accuracy by 35% at the millisecond level
 
 ###  Sobriety Hub, LLC, Software Engineer Intern   
 
-*May 2022 – Sept. 2022; St. Louis, MO*
+*May 2022 – Aug. 2022; St. Louis, MO*
 
 [Project URL](https://github.com/NingyueLiang/SobrietyHub)
 
