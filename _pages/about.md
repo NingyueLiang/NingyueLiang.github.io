@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ningyue Liang is a M.E. candidate in CSE at Harvard University. He graduated from Washington University in St. Louis as a valedictorian with double majors in Computer Science and Statistics. His profound interest in software engineering, machine learning, and AI, coupled with his industrial experience and academic achievements, marks him as an emerging professional equipped to face and solve complex technological challenges.
+Ningyue Liang is an M.E. candidate in CSE at Harvard University. He graduated from Washington University in St. Louis as a valedictorian with double majors in Computer Science and Statistics. His profound interest in software engineering, machine learning, and AI, coupled with his industrial experience and academic achievements, marks him as an emerging professional equipped to face and solve complex technological challenges.
 
 ## Internship 
 
