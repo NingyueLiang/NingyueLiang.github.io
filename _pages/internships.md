@@ -5,6 +5,21 @@ permalink: /internships/
 author_profile: true
 
 ---
+###  Boondoggle AI, Software Engineer Intern                                                                                 
+
+*June 2024 – Aug. 2024; San Francisco, CA*
+
+Skills: TypeScript, Python, React.JS, LangChain, NLP, LLM, Supabase  
+
+Built generative AI solutions to streamline CRM operations, targeting support for 4,000+ clients by automating workflows
+
+Developed automated pipelines with TypeScript, REST APIs, and GPT-4o (LLM) to create CRM contacts & deals by summarizing messages and interactions from LinkedIn and emails, reducing clients’ manual data entry by 70%
+
+Enhanced the accuracy of our semantic search and querying system by integrating LangChain, Pinecone (Vector database), and RAG, improving data processing time by 30% and response quality by 40% based on customer feedback
+
+Created non-blocking unified APIs to automate missing profile completion for major CRMs (Salesforce, HubSpot, etc.)
+
+
 ###  Impossible Sensing, LLC, Software Engineer Intern                                                                                 
 
 *June 2023 – July 2023; St. Louis, MO*
