@@ -24,8 +24,13 @@ OFA curated a list of graph datasets from a different sources and domains and de
 
 ##  *Advanced Astrophysics Telescope Program at Washington University in St. Louis*
 
-Developed with a team of 6 to build a localization pipeline in C++ with an OOP design for GRB detection in the telescope
+Developed with a team of 6 to build a real-time localization system in C++ with object-oriented designs for GRB detections
 
-Optimized the localization algorithm with ML-driven techniques by experimenting with 40+ regression models (e.g. k-NN, CNN, SVM) and improved its accuracy by 30%, achieving less than 1.5 degrees of error for 10k+ trial evaluations
+Implemented reconstruction and localization algorithms with Compton formulas to handle energy data processed by FPGAs
 
-Implemented a comprehensive machine learning infrastructure with Python and TensorFlow, including data loading, cleaning, normalization, training, and serving, efficiently managing 70 million data rows from end to end
+Built an end-to-end ML infrastructure with Python and TensorFlow for preprocessing, training, and serving with 70M data
+
+Optimized the localization pipeline by training and tuning with 40+ versions of regression models (including KNN, ANN, SVM, RF, and XGBoost), and improved its accuracy by 30%, achieving less than 1.5 degrees of error for 10k+ trials
+
+
+

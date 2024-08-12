@@ -12,25 +12,37 @@ Ningyue Liang is an M.E. candidate in CSE at Harvard University. He graduated fr
 
 ## Internship 
 
+###  Boondoggle AI, Software Engineer Intern                                                                                 
+
+*June 2024 – Aug. 2024; San Francisco, CA*
+
+Skills: TypeScript, Python, React.JS, LangChain, NLP, LLM, Supabase  
+
+Built generative AI solutions to streamline CRM operations, targeting support for 4,000+ clients by automating workflows
+
+Developed automated pipelines with TypeScript, REST APIs, and GPT-4o (LLM) to create CRM contacts & deals by summarizing messages and interactions from LinkedIn and emails, reducing clients’ manual data entry by 70%
+
+Enhanced the accuracy of our semantic search and querying system by integrating LangChain, Pinecone (Vector database), and RAG, improving data processing time by 30% and response quality by 40% based on customer feedback
+
+Created non-blocking unified APIs to automate missing profile completion for major CRMs (Salesforce, HubSpot, etc.)
+
+
 ###  Impossible Sensing, LLC, Software Engineer Intern                                                                                 
 
 *June 2023 – July 2023; St. Louis, MO*
 
 Skills: Python, C++, REST API, Django, Flask, React.JS, OOP, PostgreSQL, AWS 			              
 
-Collaborated with a team of 5 to build up optical sensing software for NASA projects with backend infrastructure and data 
-storage systems using Django, PostgreSQL, and deployed to the AWS cloud with Docker intended for 1k+ users
+Collaborated with a cross-functional team of 5 to develop optical sensing software for NASA exploration detector projects, deploying scalable solutions on AWS using Docker to support over 1,000 users
 
-Designed PostgreSQL schemas to effectively manage sensing data and developed an ETL pipeline with a 2 TB AWS RDS
-database to synchronize local database records for replication purposes
+Developed backend services with the Django MVT framework and REST APIs for record management, handling CRUD operations, data processing, and ML model predictions; implemented real-time camera image collection using OpenCV
 
-Created the front-end interface with React.JS and Tailwind CSS, and enabled interactive data visualizations using Dash
+Designed generic PostgreSQL schemas and a 2TB AWS RDS-based storage system for data management and replications
 
-Designed and developed full-flown backend services using the Django MVT framework and REST APIs for record
-management (CRUD functions, data processing, etc.) and enabled camera image collection with OpenCV 
+Crafted a responsive front-end interface using React.JS and Tailwind CSS, utilizing Dash for 8 interactive data visualizations
 
-Ensured stable inter-process communication by building Flask asynchronous APIs for delay generators and optimized
-timing control accuracy by 35% at the millisecond level
+Enhanced IPC with async APIs and JSON-RPC for delay generators, improving timing control by 35% at millisecond levels
+
 
 ###  Sobriety Hub, LLC, Software Engineer Intern   
 
@@ -40,15 +52,15 @@ timing control accuracy by 35% at the millisecond level
 
 Skills: Next.JS, React.JS, REST API, PostgreSQL, OOP, AWS                                                                                             
 
-Developed an operating management application for sober living homes and launched the web app with over 500 users
+Developed an operating management application for sober living homes and launched the website with over 500 users
 
-Created a PostgreSQL DB and built file uploading functions with AWS EC2 & S3 for operation management and analysis
+Built Next.JS APIs and Prisma models to speed up event registration by 40% and support operating analysis functions
 
-Built Next.JS async APIs and Prisma models to support event planning, rent payment, and operating analysis functions
+Created PostgreSQL schemas and built data upload functions with AWS EC2 & S3 for operation and record management
 
-Implemented responsive UI design and data visualizations with React, D3.JS, and Chakra-UI, resulting in 30% more visits
+Implemented responsive frontend UI and data visualizations with React, D3.JS, and Chakra-UI, resulting in 30% more visits
 
-### Roke Data Co., Ltd., Software Engineer Intern                                                                                          
+<!-- ### Roke Data Co., Ltd., Software Engineer Intern                                                                                          
 
 *May 2021 – July 2021; Jinan, China*
   
@@ -60,7 +72,7 @@ Implemented a database in PostgreSQL to store project planning information, incl
 
 Built non-blocking REST Python APIs to support resource planning functions and data analysis of construction projects 
 
-Created an interactive data visualization in D3.JS to show 30+ projects’ progress, geospatial locations, and operations
+Created an interactive data visualization in D3.JS to show 30+ projects’ progress, geospatial locations, and operations -->
 
 ## Research
 
@@ -85,11 +97,13 @@ OFA curated a list of graph datasets from a different sources and domains and de
 
 ###  *Advanced Astrophysics Telescope Program at Washington University in St. Louis*
 
-Developed with a team of 6 to build a localization pipeline in C++ with an OOP design for GRB detection in the telescope
+Developed with a team of 6 to build a real-time localization system in C++ with object-oriented designs for GRB detections
 
-Optimized the localization algorithm with ML-driven techniques by experimenting with 40+ regression models (e.g. k-NN, CNN, SVM) and improved its accuracy by 30%, achieving less than 1.5 degrees of error for 10k+ trial evaluations
+Implemented reconstruction and localization algorithms with Compton formulas to handle energy data processed by FPGAs
 
-Implemented a comprehensive machine learning infrastructure with Python and TensorFlow, including data loading, cleaning, normalization, training, and serving, efficiently managing 70 million data rows from end to end
+Built an end-to-end ML infrastructure with Python and TensorFlow for preprocessing, training, and serving with 70M data
+
+Optimized the localization pipeline by training and tuning with 40+ versions of regression models (including KNN, ANN, SVM, RF, and XGBoost), and improved its accuracy by 30%, achieving less than 1.5 degrees of error for 10k+ trials
 
 
 ## Project
