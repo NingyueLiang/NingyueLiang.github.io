@@ -15,7 +15,7 @@ Built generative AI solutions to streamline CRM operations, targeting support fo
 
 Developed automated pipelines with TypeScript, REST APIs, and GPT-4o (LLM) to create CRM contacts & deals by summarizing messages and interactions from LinkedIn and emails, reducing clients’ manual data entry by 70%
 
-Enhanced the accuracy of our semantic search and querying system by integrating LangChain, Pinecone (Vector database), and RAG, improving data processing time by 30% and response quality by 40% based on customer feedback
+Enhanced the accuracy of our semantic search and querying system by integrating LangChain, Pinecone (Vector database), and RAG, improving data processing time by 30% and response quality based on user tests
 
 Created non-blocking unified APIs to automate missing profile completion for major CRMs (Salesforce, HubSpot, etc.)
 
