@@ -12,9 +12,13 @@ Ningyue Liang is an M.E. candidate in CSE at Harvard University. He graduated fr
 
 ## Internship 
 
+### Meta, Software Engineer Intern
+
+*May 2025 – Aug. 2025; Menlo Park, CA*
+
 ###  Boondoggle AI, Software Engineer Intern                                                                                 
 
-*June 2024 – Aug. 2024; San Francisco, CA*
+*June 2024 – Aug. 2024; San Francisco, CA (Remote)*
 
 Skills: TypeScript, Python, React.JS, LangChain, NLP, LLM, Supabase  
 
