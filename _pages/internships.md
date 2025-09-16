@@ -9,6 +9,7 @@ author_profile: true
 
 *May 2025 – Aug. 2025; Menlo Park, CA*
 
+AI Solutions and Automation - GenAI Integrity Enable
 
 ###  Boondoggle AI, Software Engineer Intern                                                                                 
 

@@ -16,6 +16,8 @@ Ningyue Liang is an M.E. candidate in CSE at Harvard University. He graduated fr
 
 *May 2025 – Aug. 2025; Menlo Park, CA*
 
+AI Solutions and Automation - GenAI Integrity Enable
+
 ###  Boondoggle AI, Software Engineer Intern                                                                                 
 
 *June 2024 – Aug. 2024; San Francisco, CA (Remote)*
